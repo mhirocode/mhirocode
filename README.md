@@ -1,7 +1,7 @@
 # mihirocode
 
 プログラミングを勉強中のフリーターです、時間があるのでお手伝いできるプロジェクトがあれば誘って下さい。
-go勉強中。
+サーバーやgo勉強中。
 
-I'm a part-time worker currently learning programming and looking for projects I can assist with. Currently studying Go.
+I'm a part-time worker currently studying programming. I have some free time, so if there's a project I can help with, please let me know. I'm currently studying servers and Go.
 
